@@ -27,7 +27,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/ketan-ksagar/" target="_blank
 </h3>
 
 <h2 align="center">
-I am Data Analyst with over 3 years of Experience  💻, Photographer 📸, and Data Enthusiastic!
+I am Data Analyst with over 4 years of Experience  💻, Photographer 📸, and Data Enthusiastic!
 </h2> 
 
 Welcome to my digital space, where data transforms into insights and ideas come to life. I am Ketan Kshirsagar, a passionate data enthusiast and analytics professional. Through my journey, I've navigated the realms of data analysis, business intelligence, and data engineering, crafting solutions and extracting meaningful narratives from complex datasets. Explore my portfolio to witness the fusion of technical expertise, creative exploration, and a commitment to turning data into a powerful force for informed decision-making. Join me in unraveling the stories hidden within the numbers and the possibilities that data-driven insights bring to the forefront.
